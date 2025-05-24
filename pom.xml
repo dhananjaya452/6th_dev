@@ -51,7 +51,7 @@
       <configuration>
         <archive>
           <manifest>
-            <mainClass>your.package.MainClassName</mainClass>
+            <mainClass>com.example1.App</mainClass>
           </manifest>
         </archive>
       </configuration>
